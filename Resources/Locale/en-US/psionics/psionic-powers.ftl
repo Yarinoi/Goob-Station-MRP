@@ -129,7 +129,7 @@ action-description-telekinetic-pulse =
 telekinetic-pulse-power-description = { action-description-telekinetic-pulse }
 telekinetic-pulse-power-initialization-feedback =
     As I reach through the veil with my psyche, I discover a wellspring of pure kinetic energy. It courses through me, but I seem to lack fine control over it.
-telekinetic-pulse-power-metapsionic-feedback = {CAPITALIZE($entity)} has the essence of pure kinesis flowing through him.
+telekinetic-pulse-power-metapsionic-feedback = {CAPITALIZE($entity)} has the essence of pure kinesis flowing through them.
 
 # Pyrokinetic Flare
 action-name-pyrokinetic-flare = Pyrokinetic Flare
