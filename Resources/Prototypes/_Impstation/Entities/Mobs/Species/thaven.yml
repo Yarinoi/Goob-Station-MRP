@@ -29,16 +29,16 @@
   - type: Damageable
     damageContainer: Biological
     damageModifierSet: Thaven
-  - type: MeleeWeapon
-    soundHit:
-      collection: Punch
-    angle: 30
-    animation: WeaponArcPunch
-    damage:
-      types:
-        Blunt: 0
-  - type: StaminaDamageOnHit
-    damage: 10
+  #- type: MeleeWeapon
+  #  soundHit:
+  #    collection: Punch
+  #  angle: 30
+  #  animation: WeaponArcPunch
+  #  damage:
+  #    types:
+  #      Blunt: 0
+  #- type: StaminaDamageOnHit
+  #  damage: 10
   - type: Butcherable
     butcheringType: Spike
     spawned:
